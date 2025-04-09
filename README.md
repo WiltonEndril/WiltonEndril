@@ -3,7 +3,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=WiltonEndril" alt="WiltonEndril Profile Views" />
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-WiltonEndril-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/WiltonEndril/)](https://www.linkedin.com/in/WiltonEndril/) 
-[![Gmail Badge](https://img.shields.io/badge/-wiltonendril@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wiltonendril@gmail.com)](mailto:wiltonendril@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-wiltoncunha.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wiltonendril@gmail.com)](mailto:wiltonendril@gmail.com)
 
 <!--![Wilton Endril github stats](https://github-readme-stats.vercel.app/api?username=WiltonEndril&show_icons=true&theme=tokyonight)-->
 
